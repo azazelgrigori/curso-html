@@ -31,7 +31,7 @@
 
 .cancion {
     color:black;
-    background-image: url('../../../cursocsshtmlgit/clase1/img/maxresdefault.jpg');
+    background-image: url('./img/maxresdefault.jpg');
     background-repeat: no-repeat;
     padding: 30em;
     display: flex;
